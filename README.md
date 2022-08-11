@@ -35,14 +35,5 @@ The two programs can be used together by using
 ```
 This way, checker will automatically read the commands from push_swap    
 Note: for the checker to work correctly, the numeric sequences must match!
-###### Failed tests:
->Sorting 100 numbers: average number of actions taken: 933 optimal number of actions: 700 score: 3 out of 5
-
->Sorting 500 numbers: average number of actions taken: 6578 optimal number of actions: 5,500 rating: 4 out of 5
-
-#### Response from MOULINETTE
->No MOULINETTE check for this project
-
-Final score: 103%
 
 2019, Moscow, Russia
